@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jason Stewart"]
-  s.date = %q{2010-11-05}
+  s.date = %q{2010-11-08}
   s.description = %q{Lightweight helper library that makes using easel with Rails a snap}
   s.email = %q{jstewart@fusionary.com}
   s.extra_rdoc_files = [
@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "easel_helpers_lite.gemspec",
      "lib/easel_helpers_lite.rb",
      "lib/easel_helpers_lite/helpers.rb",
      "lib/easel_helpers_lite/railtie.rb"

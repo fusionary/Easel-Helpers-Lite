@@ -8,7 +8,7 @@ begin
     gem.summary = "Lightweight helper library that makes using easel with Rails a snap"
     gem.description = "Lightweight helper library that makes using easel with Rails a snap"
     gem.email = "jstewart@fusionary.com"
-    gem.homepage = "http://github.com/fusionary/easel_helpers_lite"
+    gem.homepage = "https://github.com/fusionary/Easel-Helpers-Lite"
     gem.authors = ["Jason Stewart"]
     gem.add_dependency 'nokogiri', '>=1.4.1'
   end
