@@ -1,4 +1,4 @@
-= easel_lite
+= Easel Lite
 
 Rails 3 compatible helpers for the Easel framework without the fat.
 
