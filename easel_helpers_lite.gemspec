@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
      "lib/easel_helpers_lite/helpers.rb",
      "lib/easel_helpers_lite/railtie.rb"
   ]
-  s.homepage = %q{http://github.com/fusionary/easel_helpers_lite}
+  s.homepage = %q{https://github.com/fusionary/Easel-Helpers-Lite}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
