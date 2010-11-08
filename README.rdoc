@@ -1,6 +1,6 @@
 = easel_lite
 
-Description goes here.
+Rails 3 compatible helpers for the Easel framework without the fat.
 
 == Note on Patches/Pull Requests
  
@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Jason Stewart. See LICENSE for details.
+Copyright (c) 2010 Fusionary Media.
