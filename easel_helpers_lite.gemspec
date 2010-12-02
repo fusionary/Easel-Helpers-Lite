@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{easel_helpers_lite}
-  s.version = "0.1.1"
+  s.version = "0.1.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jason Stewart"]
-  s.date = %q{2010-11-08}
+  s.date = %q{2010-12-02}
   s.description = %q{Lightweight helper library that makes using easel with Rails a snap}
   s.email = %q{jstewart@fusionary.com}
   s.extra_rdoc_files = [
